@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+dist
+.git
+.gitignore
+
+package-lock.json
+
+# Ignore local Cypress test results (these should be mounted as volumes)
+cypress/screenshots
+cypress/videos
+
+# Docker and other environment files
+Dockerfile
+docker-compose.yml
