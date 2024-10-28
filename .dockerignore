@@ -4,8 +4,6 @@ dist
 .git
 .gitignore
 
-package-lock.json
-
 # Ignore local Cypress test results (these should be mounted as volumes)
 cypress/screenshots
 cypress/videos

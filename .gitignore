@@ -41,8 +41,6 @@ yarn-error.log*
 .idea
 .env
 
-package-lock.json
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
